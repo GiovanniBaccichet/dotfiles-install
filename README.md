@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">dotfiles relay</h3>
+  <h3 align="center">dotfiles install</h3>
 
   <p align="center">
     Installer for my private dotfiles
