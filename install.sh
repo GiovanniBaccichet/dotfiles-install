@@ -2,11 +2,11 @@
 
 # Prompt the user to enter their GitHub access token
 echo "Insert GitHub Access Token:"
-read -p "> " GITHUB_TOKEN
+read "> " GITHUB_TOKEN
 
 # Hardcoded repository URL and destination directory
 REPO_URL="https://github.com/GiovanniBaccichet/dotfiles"
-DEST_DIR="~/dotfiles"
+DEST_DIR="dotfiles"
 
 # Create the destination directory if it does not exist
 mkdir -p "$DEST_DIR"
